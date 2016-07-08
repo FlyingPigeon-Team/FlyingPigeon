@@ -7,4 +7,6 @@ public class User {
 	private String passWord ; 
 	private String sex ; 
 	private String realName ;
+	
+	//
   }
